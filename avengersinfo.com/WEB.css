@@ -1,0 +1,20 @@
+html,body {
+
+    height: 100%;
+
+}
+.make-center{
+
+    display: flex;
+     justify-content: left;
+      
+
+}
+
+#div1 {
+    background: none;
+    height: 50%;
+    width: 50%;
+    padding-right: 2px;
+    padding-left: 2px;
+}
